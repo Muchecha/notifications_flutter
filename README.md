@@ -117,3 +117,14 @@ Se quiser, eu posso também:
 - Criar um exemplo de backend (mock) rápido em Node/Express para testar localmente.
 
 A seguir eu atualizei o README com estas informações.
+
+## Screenshots
+
+Adicione capturas de tela do app na pasta `assets/docs` e referencie-as aqui com caminhos relativos. Exemplos:
+
+![Home screen - empty](assets/docs/screen1.png)
+![Home screen - with items](assets/docs/screen2.png)
+
+Se preferir, nomeie as imagens como `screen1.png`, `screen2.png`, etc. Para alta qualidade use PNG e resolução de tela de dispositivo (por exemplo 1080x2340).
+
+Dica: arraste/coloque os arquivos de imagem em `assets/docs` no seu repositório; o GitHub exibirá as imagens automaticamente no README.
