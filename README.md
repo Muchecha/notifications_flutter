@@ -125,6 +125,8 @@ Adicione capturas de tela do app na pasta `assets/docs` e referencie-as aqui com
 ![Home screen - empty](assets/docs/screen1.png)
 ![Home screen - with items](assets/docs/screen2.png)
 
+![Home screen - success](assets/docs/screen3.png)
+
 Se preferir, nomeie as imagens como `screen1.png`, `screen2.png`, etc. Para alta qualidade use PNG e resolução de tela de dispositivo (por exemplo 1080x2340).
 
 Dica: arraste/coloque os arquivos de imagem em `assets/docs` no seu repositório; o GitHub exibirá as imagens automaticamente no README.
